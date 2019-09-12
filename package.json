@@ -1,0 +1,20 @@
+{
+  "name": "swift-format-staged",
+  "version": "1.0.0",
+  "description": "Format modified lines in your swift files",
+  "main": "./lib/format.js",
+  "bin": {
+    "swift-format-staged": "./bin/index.js"
+  },
+  "scripts": {
+    "start": "node bin/index.js"
+  },
+  "author": "Selali Adobor",
+  "license": "ISC",
+  "dependencies": {
+    "@types/nodegit": "^0.22.7",
+    "fs-readfile-promise": "^3.0.1",
+    "range": "0.0.3",
+    "string-to-stream": "^1.1.1"
+  }
+}
