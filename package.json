@@ -12,8 +12,9 @@
   "author": "Selali Adobor",
   "license": "ISC",
   "dependencies": {
-    "@types/nodegit": "^0.22.7",
+    "child_process": "^1.0.2",
     "fs-readfile-promise": "^3.0.1",
+    "nodegit": "^0.26.0",
     "range": "0.0.3",
     "string-to-stream": "^1.1.1"
   }
