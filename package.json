@@ -1,6 +1,6 @@
 {
   "name": "swiftformat-staged",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Format modified lines in your swift files",
   "main": "./lib/format.js",
   "bin": {
