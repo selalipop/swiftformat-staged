@@ -1,10 +1,10 @@
 {
-  "name": "swift-format-staged",
+  "name": "swiftformat-staged",
   "version": "1.0.0",
   "description": "Format modified lines in your swift files",
   "main": "./lib/format.js",
   "bin": {
-    "swift-format-staged": "./bin/index.js"
+    "swiftformat-staged": "./bin/index.js"
   },
   "scripts": {
     "start": "node bin/index.js"
